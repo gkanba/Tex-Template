@@ -1,0 +1,78 @@
+% ==== Preamble Starts Here ====
+\documentclass[
+    paper=a4paper,        % Paper Size
+    report,               % Publication Type
+    fontsize=12pt         % Master Font Size
+  ]{jlreq}
+
+% ~~ Packages : Graphics Related ~~
+\usepackage{luatexja-fontspec}
+\usepackage{graphicx}
+\usepackage{xcolor}
+
+% ~~ Packages : Margin Setting ~~
+\usepackage[margin=1.5cm]{geometry}
+
+% ~~ Packages : Mathematics ~~
+\usepackage{amsmath, amssymb, amsfonts}
+\usepackage[italicdiff]{physics}
+\usepackage{mathtools}
+
+% ~~ Packages : Plot, Rendering ~~
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{tikz}
+	\usetikzlibrary{patterns}
+\usepackage{tcolorbox}
+	\tcbuselibrary{breakable}
+	\tcbuselibrary{theorems}
+	\tcbuselibrary{skins}
+
+% ~~ Settings : Math Equation Sizes ~~
+\DeclareMathSizes{12}{14}{11}{7}
+
+% ~~  Roman and Italic Symbols ~~ 
+% \rS = Roman, \iS = Italic
+\newcommand{\rS}[1]{\mathrm{#1}}
+\newcommand{\iS}[1]{\mathit{#1}}
+
+% ~~ Fraktur, Caligraphy and Script Symbols ~~
+% \frkS = Fraktur, \calS = Caligraphy, \scrS = Script
+\newcommand{\frkS}[1]{\mathfrak{#1}}
+\newcommand{\calS}[1]{\mathcal{#1}}
+\newcommand{\scrS}[1]{\mathscr{#1}}
+
+% ~~ Bold Symbols ~~
+%   Some commands have compeletely the same definition but it is for readability
+% \rV = Roman Bold, \iV = Italic Bold, \gV = Greek Bold, \bV = Blackboard Bold, \oV = Another Bold(Not Recommended but for readability)
+\newcommand{\rV}[1]{\mathbf{#1}}
+\newcommand{\iV}[1]{\boldsymbol{#1}}
+\newcommand{\gV}[1]{\boldsymbol{#1}}
+\newcommand{\bV}[1]{\mathbb{#1}}
+\newcommand{\oV}[1]{\boldsymbol{#1}}
+
+% ~~ Set Symbols ~~
+% \setXXXXX = Blackboard Bold symbols for some well known sets named XXXXX
+\newcommand{\setReal}{\bV{R}}
+\newcommand{\setRational}{\bV{Q}}
+\newcommand{\setComplex}{\bV{C}}
+\newcommand{\setInteger}{\bV{Z}}
+\newcommand{\setNatural}{\bV{N}}
+\newcommand{\setQuarternion}{\bV{H}}
+\newcommand{\setOctonion}{\bV{O}}
+
+% ==== Preamble Ends Here ====
+
+% ~~ Settings : Indent size ~~
+% \parindent = 0pt
+
+% ==== Title Definition Here ====
+
+% ==== Document Starts Here ====
+\begin{document}
+
+  % DOCUMENTS HERE
+  Documents Here
+
+\end{document}
+% ==== Document Ends Here ====
