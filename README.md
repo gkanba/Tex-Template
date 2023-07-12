@@ -12,17 +12,19 @@ Latex Templatex for Japanese is a latex preamble template for japanese lualatex 
 
 Standard notation of mathematical symbols are redundant so I created shorter notation of such symbols. Uppercase suffix "S" means "Symbols" and as well as "V" means "Vector (Bold) Symbols". Prefixes such as "r", "i", "g" and so on means which kind of symbol is used.
 
+Mathjax examples of symbols.
 | Notation  | Styles           | Results               |
 | ----      | ----             | ----                  |
 | \rS       | Roman            | $\mathrm{x}$          |
 | \iS       | Italic           | $\mathrm{x}$          |
 | \rV       | Roman Bold       | $\mathbb{x}$          |
-| \iV       | Italic Bold      | $\boldsymbols{x} $    |
-| \gV       | Greek Bold       | $\boldsymbols{\psi}$  |
+| \iV       | Italic Bold      | $\boldsymbol{x} $     |
+| \gV       | Greek Bold       | $\boldsymbol{\psi}$   |
 | \bV       | Blackboard Bold  | $\mathbb{R}$          |
 | \frkS     | Fraktur          | $\mathfrak{N}$        |
 | \calS     | Calligraphic     | $\mathcal{N}$         |
 | \srcS     | Script           | $\mathscr{N}$         |
+
 
 <details><summary><b>Notice</b></summary>
 
