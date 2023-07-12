@@ -24,7 +24,7 @@ Standard notation of mathematical symbols are redundant so I created shorter not
     | \calS     | Calligraphic     | $\mathcal{N}$         |
     | \srcS     | Script           | $\mathscr{N}$         |
    
-<details><summary><b>Notice<\b><summary>
+<details><summary><b>Notice<\b><\summary>
 
 As an alternative notation, there is a notation \oV for readability. This is provided to assign a bold symbols to a requirement that does not fit any of the above, so that the purpose of the symbol can be clearly seen by looking at the notation.
 
