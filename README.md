@@ -4,7 +4,7 @@
 
 Latex Templatex for Japanese is a latex preamble template for japanese lualatex user using **[jlreq]** documentclass. This template inculedes the complete packages needed to be used by math major students who want to create documents, as well as other science and engineering students who works with mathematical formulats in general. This template is intended only as a memorandum for the author's own use, and the author cannot respond to any questions or problems that my arise when using this template.
 
-[jlreq] : https://github.com/abenori/jlreq
+[jlreq]: https://github.com/abenori/jlreq
 
 # Usage
 
