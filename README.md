@@ -1,6 +1,6 @@
 # Latex Template for Japanese
 
-<img src="https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg" align="right" alt="Latex is a document preparation system for high-quality typesetting." width="243" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" align="right" alt="Latex is a document preparation system for high-quality typesetting." width="243" height="100">
 
 Latex Templatex for Japanese is a latex preamble template for japanese lualatex user using **[jlreq]** documentclass. This template inculedes the complete packages needed to be used by math major students who want to create documents, as well as other science and engineering students who works with mathematical formulats in general. This template is intended only as a memorandum for the author's own use, and the author cannot respond to any questions or problems that my arise when using this template.
 
