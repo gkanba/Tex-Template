@@ -12,18 +12,18 @@ Latex Templatex for Japanese is a latex preamble template for japanese lualatex 
 
 Standard notation of mathematical symbols are redundant so I created shorter notation of such symbols. Uppercase suffix "S" means "Symbols" and as well as "V" means "Vector (Bold) Symbols". Prefixes such as "r", "i", "g" and so on means which kind of symbol is used.
 
-    | Notation  | Styles           | Results               |
-    | ----      | ----             | ----                  |
-    | \rS       | Roman            | $\mathrm{x}$          |
-    | \iS       | Italic           | $\mathrm{x}$          |
-    | \rV       | Roman Bold       | $\mathbb{x}$          |
-    | \iV       | Italic Bold      | $\boldsymbols{x} $    |
-    | \gV       | Greek Bold       | $\boldsymbols{\psi}$  |
-    | \bV       | Blackboard Bold  | $\mathbb{R}$          |
-    | \frkS     | Fraktur          | $\mathfrak{N}$        |
-    | \calS     | Calligraphic     | $\mathcal{N}$         |
-    | \srcS     | Script           | $\mathscr{N}$         |
-   
+| Notation  | Styles           | Results               |
+| ----      | ----             | ----                  |
+| \rS       | Roman            | $\mathrm{x}$          |
+| \iS       | Italic           | $\mathrm{x}$          |
+| \rV       | Roman Bold       | $\mathbb{x}$          |
+| \iV       | Italic Bold      | $\boldsymbols{x} $    |
+| \gV       | Greek Bold       | $\boldsymbols{\psi}$  |
+| \bV       | Blackboard Bold  | $\mathbb{R}$          |
+| \frkS     | Fraktur          | $\mathfrak{N}$        |
+| \calS     | Calligraphic     | $\mathcal{N}$         |
+| \srcS     | Script           | $\mathscr{N}$         |
+
 <details><summary><b>Notice</b></summary>
 
 As an alternative notation, there is a notation \oV for readability. This is provided to assign a bold symbols to a requirement that does not fit any of the above, so that the purpose of the symbol can be clearly seen by looking at the notation.
