@@ -16,8 +16,8 @@ Mathjax examples of symbols.
 | Notation  | Styles           | Results               |
 | ----      | ----             | ----                  |
 | \rS       | Roman            | $\mathrm{x}$          |
-| \iS       | Italic           | $\mathrm{x}$          |
-| \rV       | Roman Bold       | $\mathbb{x}$          |
+| \iS       | Italic           | $\mathit{x}$          |
+| \rV       | Roman Bold       | $\mathbf{x}$          |
 | \iV       | Italic Bold      | $\boldsymbol{x} $     |
 | \gV       | Greek Bold       | $\boldsymbol{\psi}$   |
 | \bV       | Blackboard Bold  | $\mathbb{R}$          |
